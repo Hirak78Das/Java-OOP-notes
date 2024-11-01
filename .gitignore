@@ -1,0 +1,7 @@
+
+# Ignore all compiled Java class files
+*.class
+
+# Ignore all hidden files and directories
+.*/
+
